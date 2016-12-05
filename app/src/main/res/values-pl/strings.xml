@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vermelho">Merah</string>
+    <string name="laranja">Orange</string>
+    <string name="amarelo">Kuning</string>
+    <string name="verde">Hijau</string>
+    <string name="azul">Biru</string>
+    <string name="indigo">Indigo</string>
+    <string name="roxo">Violet</string>
+</resources>

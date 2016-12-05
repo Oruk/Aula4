@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aula4</string>
+    
+    <!-- Tesxtinhos lekais-->
+    <string name="vermelho">Red</string>
+    <string name="laranja">Orange</string>
+    <string name="amarelo">Yellow</string>
+    <string name="verde">Green</string>
+    <string name="azul">Blue</string>
+    <string name="indigo">Indigo</string>
+    <string name="roxo">Violet</string>
+    
+</resources>

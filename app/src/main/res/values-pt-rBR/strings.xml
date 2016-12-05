@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Tesxtinhos lekais-->
+    <string name="vermelho">Vermelho</string>
+    <string name="laranja">Laranja</string>
+    <string name="amarelo">Amarelo</string>
+    <string name="verde">verde</string>
+    <string name="azul">azul</string>
+    <string name="indigo">Indigo</string>
+    <string name="roxo">Violeta</string>
+
+</resources>

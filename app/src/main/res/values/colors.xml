@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- MEUS COLORES LEK-->
+    <color name="pretao">#000000</color>
+    <color name="vermelho">#F44336</color>
+    <color name="laranja">#FF9800</color>
+    <color name="amarelo">#FFEB3B</color>
+    <color name="verde">#4CAF50</color>
+    <color name="azul">#2196F3</color>
+    <color name="indigo">#3F51B5</color>
+    <color name="violeta">#9C27B0</color>
+
+</resources>

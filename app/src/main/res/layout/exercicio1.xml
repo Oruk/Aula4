@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="80dp"
+    android:paddingLeft="16dp"
+    android:background="@color/pretao">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@color/vermelho"
+            android:text="@string/vermelho"
+            android:id="@+id/btn_1"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@color/laranja"
+            android:text="@string/laranja"
+            android:layout_toRightOf="@+id/btn_1"
+            android:layout_below="@+id/btn_1"
+            android:id="@+id/btn_2"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@color/amarelo"
+            android:text="@string/amarelo"
+            android:layout_toRightOf="@+id/btn_2"
+            android:layout_below="@+id/btn_2"
+            android:id="@+id/btn_3"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@color/verde"
+            android:text="@string/verde"
+            android:layout_toRightOf="@+id/btn_3"
+            android:layout_below="@+id/btn_3"
+            android:id="@+id/btn_4"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@color/azul"
+            android:text="@string/azul"
+            android:layout_toLeftOf="@+id/btn_4"
+            android:layout_below="@+id/btn_4"
+            android:id="@+id/btn_5"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@color/indigo"
+            android:text="@string/indigo"
+            android:layout_toLeftOf="@+id/btn_5"
+            android:layout_below="@+id/btn_5"
+            android:id="@+id/btn_6"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:background="@color/violeta"
+            android:text="@string/roxo"
+            android:layout_toLeftOf="@+id/btn_6"
+            android:layout_below="@+id/btn_6"
+            android:id="@+id/btn_7"/>
+</RelativeLayout>
